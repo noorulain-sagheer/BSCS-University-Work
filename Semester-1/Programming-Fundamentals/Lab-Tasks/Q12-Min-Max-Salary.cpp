@@ -1,4 +1,4 @@
-// Question 15
+
 // Program to find maximum and minimum salary among 10 employees
 
 #include <iostream>
