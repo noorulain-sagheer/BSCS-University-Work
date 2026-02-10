@@ -6,4 +6,8 @@ Topics covered:
 - Basic Input/Output
 - Variables
 - Operators
-- Conditional Statements
+- Conditional Statements (if,if-else,switch)
+- Loops (for,while,do-while)
+- Nested Loops
+- Arrays
+- 2D Arrays
