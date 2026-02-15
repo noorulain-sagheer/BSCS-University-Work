@@ -59,4 +59,3 @@ This solver uses a Hybrid CSP approach:
 
 ---
 
-## 🔹 Example Input
